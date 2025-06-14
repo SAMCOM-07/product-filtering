@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>PRODUCTS</title>
+		<link
+			href="https://cdn.boxicons.com/fonts/basic/boxicons.min.css"
+			rel="stylesheet"
+		/>
+		<link rel="stylesheet" href="./store.css" />
+	</head>
+	<body>
+		<!-- CART MODAL -->
+		<div class="cartOverlay">
+			<div class="cartContainer">
+				<h2 class="head">Your Cart</h2>
+				<span class="closeCart"><i class="bxr bx-x"></i></span>
+				<hr />
+				<div class="cartList"></div>
+				<hr />
+				<h3 class="totalPrice">Total: <span>0</span></h3>
+				<button class="clearAllBtn">Clear All</button>
+			</div>
+		</div>
+
+		<div class="body">
+			<!-- HEADER -->
+			<header>
+				<h1 class="logo">SAMCOM</h1>
+				<div class="input">
+					<input type="text" id="search" placeholder="search for products" />
+					<!-- <i class="bxr bx-search-big"></i> -->
+				</div>
+				<div class="cartLogo">
+					<i class="bxr bx-cart"></i>
+					<span class="cartQuantity">0</span>
+				</div>
+			</header>
+
+			<!-- FILTER BUTTONS -->
+			<section class="filterActuator">
+				<h3>PRODUCT LIST</h3>
+				<div class="filterBtns">
+					<button class="allProduct">All Products</button>
+					<button class="pad">Game Pad</button>
+					<button class="keyboard">Keyboard</button>
+					<button class="laptop">Laptop</button>
+					<button class="speaker">Speaker</button>
+				</div>
+			</section>
+
+			<!-- PRODUCTS SECTION -->
+			<main class="productContainer"></main>
+
+			<script src="./store.js"></script>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Charging Pad",
+    "price": 24.99,
+    "img": "./images/pad.png",
+    "rating": "./images/5star.png"
+  },
+  {
+    "id": 2,
+    "name": "Professional Camera Lens",
+    "price": 129.99,
+    "img": "./images/camera.png",
+    "rating": "./images/5star.png"
+  },
+  {
+    "id": 3,
+    "name": "Mechanical Gaming Keyboard",
+    "price": 59.99,
+    "img": "./images/keyboard.png",
+    "rating": "./images/4star.png"
+  },
+  {
+    "id": 4,
+    "name": "Ergonomic Office Chair",
+    "price": 149.99,
+    "img": "./images/chair.png",
+    "rating": "./images/5star.png"
+  },
+  {
+    "id": 5,
+    "name": "High-Performance Laptop",
+    "price": 899.99,
+    "img": "./images/laptop.png",
+    "rating": "./images/5star.png"
+  },
+  {
+    "id": 6,
+    "name": "32-Inch 4K Monitor",
+    "price": 299.99,
+    "img": "./images/monitor.png",
+    "rating": "./images/5star.png"
+  },
+  {
+    "id": 7,
+    "name": "Wireless Ergonomic Pad",
+    "price": 29.99,
+    "img": "./images/pad2.png",
+    "rating": "./images/4star.png"
+  },
+  {
+    "id": 8,
+    "name": "Modern Wooden Shelf",
+    "price": 79.99,
+    "img": "./images/shelf.png",
+    "rating": "./images/4star.png"
+  },
+  {
+    "id": 9,
+    "name": "JBL Bluetooth Speaker",
+    "price": 119.99,
+    "img": "./images/jbl.png",
+    "rating": "./images/5star.png"
+  },
+  {
+    "id": 10,
+    "name": "Remote Control Car",
+    "price": 39.99,
+    "img": "./images/car.png",
+    "rating": "./images/4star.png"
+  },
+  {
+    "id": 11,
+    "name": "JBL Bluetooth Speaker",
+    "price": 119.99,
+    "img": "./images/mp3.png",
+    "rating": "./images/5star.png"
+  },
+  {
+    "id": 12,
+    "name": "Mp3 Loud Speaker",
+    "price": 39.99,
+    "img": "./images/speaker.png",
+    "rating": "./images/5star.png"
+  }
+]
