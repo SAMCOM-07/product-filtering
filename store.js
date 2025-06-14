@@ -70,7 +70,7 @@ const saveData = () => {
 
 // GETTING SAVED DATA
 const getData = () => {
-  if (localStorage.setItem) {
+  if (localStorage.getItem('myCart')) {
     carts = JSON.parse(localStorage.getItem('myCart'));
   }
 }
