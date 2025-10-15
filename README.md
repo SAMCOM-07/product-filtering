@@ -1,6 +1,6 @@
 # product-filtering
 
-This project is built with HTML, CSS and JavaScript
+This project was built with HTML, CSS and JavaScript
 
 How it works:
 
